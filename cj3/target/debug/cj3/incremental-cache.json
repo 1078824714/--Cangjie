@@ -1,0 +1,14 @@
+{
+  "packageInformation": {
+    "cj3": {
+      "rootPackageName": "cj3",
+      "fileNameHash": "4840727118496728625",
+      "timeStamp": 1732258365,
+      "isBuilt": true,
+      "exeName": "main",
+      "hasSubPkgs": false
+    }
+  },
+  "jsonHash": "-3050058979357203173",
+  "rootPackageName": "cj3"
+}

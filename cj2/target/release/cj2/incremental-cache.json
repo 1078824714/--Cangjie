@@ -1,0 +1,14 @@
+{
+  "packageInformation": {
+    "cj2": {
+      "rootPackageName": "cj2",
+      "fileNameHash": "3362323475453809372",
+      "timeStamp": 1731584871,
+      "isBuilt": true,
+      "exeName": "main",
+      "hasSubPkgs": false
+    }
+  },
+  "jsonHash": "3921579840776809716",
+  "rootPackageName": "cj2"
+}
