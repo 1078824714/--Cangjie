@@ -565,25 +565,25 @@ main() {
     //     // println("请输入正则表达式:")
     //     // let c:String=Console.stdIn.readln().getOrThrow()
     //     // let dfa=DFA(c.toRuneArray())
-    //     // dfa.GetNFA()
-    //     // dfa.Traverse()
+    //     // dfa.GetNFA()        //得到NFA
+    //     // dfa.Traverse()      //输出NFA
     //     // while(true){
     //     //     let d:String=Console.stdIn.readln().getOrThrow()
     //     //     if(d=="exit") {break}
-    //     //     dfa.Test(d)
+    //     //     dfa.Test(d)	//测试NFA是否可以接受字符串
     //     // }
-    //     // dfa.NFAtoDFA()
+    //     // dfa.NFAtoDFA()      //将NFA转为DFA
     //     // dfa.Traverse(isDFA:true)
     //     // while(true){
     //     //     let d:String=Console.stdIn.readln().getOrThrow()
     //     //     if(d=="exit") {break}
-    //     //     dfa.Test(d,isDFA:true)
+    //     //     dfa.Test(d,isDFA:true)	//测试DFA是否可以接受字符串
     //     // }
-    //     // dfa.MinimizeDFA()
+    //     // dfa.MinimizeDFA()			//最小化DFA
     //     // while(true){
     //     //     let d:String=Console.stdIn.readln().getOrThrow()
     //     //     if(d=="exit") {break}
-    //     //     dfa.Test(d,isDFA:true)
+    //     //     dfa.Test(d,isDFA:true)	//测试最小化后的DFA是否可以接受字符串
     //     // }
 
     // } 
